@@ -1,9 +1,8 @@
-================================
-# BANK-REVIEW-COMPLAINTS ANALYSIS
-================================
----------------------------------
-## The objective of the case study is to analyze customer reviews and predict customer satisfaction with the reviews.
----------------------------------
+
+## BANK-REVIEW-COMPLAINTS ANALYSIS
+
+### The objective of the case study is to analyze customer reviews and predict customer satisfaction with the reviews.
+
 
 **BUSINESS PROBLEM:**
 
